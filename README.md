@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @longoD3V
+- 🌱 I’m currently learning C,Python,HTML,CSS,JS,React
+- 📫 How to reach me in your dreams or with an oujia table
